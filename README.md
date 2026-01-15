@@ -1,6 +1,6 @@
 ## The implementation is currently under preparation and will be released upon acceptance.
 
-# Multicam-VINS: Robust Localization System with Arbitrarily Multi-Camera Visual-Inertial Odometry for Challenging Environments
+# Multicam-VINS
 
 **Videos:**
 
